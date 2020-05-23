@@ -1,0 +1,4 @@
+.travis.yml
+deploy/
+- frontend.sh
+- functions.sh
